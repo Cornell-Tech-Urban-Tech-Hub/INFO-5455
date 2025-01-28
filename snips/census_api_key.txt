@@ -1,0 +1,2 @@
+You can request an API key for the US Census API here: https://api.census.gov/data/key_signup.html. 
+Upon success, you should be receive an email with the key. 
