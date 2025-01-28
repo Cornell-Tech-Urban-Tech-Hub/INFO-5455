@@ -170,4 +170,4 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 
-labs/lab1-digital-equity-plans/data/*/*.json
+labs/lab1-digital-equity-plans/data/
